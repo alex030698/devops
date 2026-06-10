@@ -211,3 +211,10 @@ what's affected by changes.
   test parallelism, and far simpler offline setup.
 - **Use Maven** only if the C++ project is part of a larger JVM-centric ecosystem
   where Maven is already the standard build tool.
+
+
+
+- creare repo
+- setup jenkins
+- setup ngrok
+todo: update doc, instalat docker pe jenkins si folosit scripturi
