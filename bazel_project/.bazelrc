@@ -1,0 +1,8 @@
+# Default: use system default compiler
+build --cxxopt=-std=c++17
+
+# GCC 9: bazel build //... --config=gcc9
+build:clang --action_env=CC=clang
+
+# Clang 18: bazel build //... --config=clang18
+build:clang18 --action_env=CC=clang-18
