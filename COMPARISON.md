@@ -217,3 +217,4 @@ what's affected by changes.
 - creare repo
 - setup jenkins
 - setup ngrok
+todo: update doc, instalat docker pe jenkins si folosit scripturi
